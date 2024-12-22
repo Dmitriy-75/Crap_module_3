@@ -6,7 +6,7 @@
 
 
 
-test_list = [{(2, 'Urban', ('Urban2', 35))}]
+
 
 
 print("The original list is : " , test_list)
